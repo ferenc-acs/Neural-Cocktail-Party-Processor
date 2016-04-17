@@ -20,6 +20,8 @@ https://en.wikipedia.org/wiki/Neuronal_encoding_of_sound
 Since this project was implemeted in 1994 on a Lattice C++ compiler it will not run.
 However I hope that some of you might find the ideas helpful!
 
+Regensburg, Germany, 2016-04-17
+
 Code on!
 Ferenc
 
